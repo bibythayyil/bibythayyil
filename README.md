@@ -96,7 +96,7 @@ https://github.com/bibythayyil/ecommerce-customer-churn-analysis-mysql
 - Built interactive dashboards and KPI tracking
 
 🔗 Repository:
-https://github.com/bibythayyil/fleet-performance-delivery-dashboard-powerbi
+https://github.com/bibythayyil/fleet-performance-delivery-analysis-powerbi
 
 ---
 
