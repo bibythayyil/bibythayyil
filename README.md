@@ -157,6 +157,12 @@ https://github.com/bibythayyil/healthcare-analysis-excel
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibin%20TS-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bibints)
+<p align="left">
+<a href="https://linkedin.com/in/bibints" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Bibin%20TS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bibythayyil@gmail.com)
+<a href="mailto:bibythayyil@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
