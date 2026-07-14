@@ -2,6 +2,12 @@
   <img src="banner.png" width="100%">
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+MySQL+%7C+Power+BI+%7C+Excel;Healthcare+Analytics+Enthusiast;Open+to+Data+Analyst+Opportunities" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=bibythayyil&label=Profile%20Views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi 👋, I'm Bibin T S</h1>
 
 <h3 align="center">
@@ -12,7 +18,7 @@ Healthcare Professional → Data Analyst
 Python • MySQL • Power BI • Excel • Healthcare Analytics
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 👨‍💻 About Me
 
@@ -24,7 +30,7 @@ I am currently seeking opportunities as a Data Analyst in any sector, with a par
 
 📍 Kerala, India
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +51,7 @@ I am currently seeking opportunities as a Data Analyst in any sector, with a par
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🚀 Featured Projects
 
@@ -132,30 +138,55 @@ https://github.com/bibythayyil/student-academic-performance-analysis-excel-power
 🔗 Repository:
 https://github.com/bibythayyil/healthcare-analysis-excel
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## 📈 GitHub Statistics
+## 🩺 Clinical Experience
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=bibythayyil)
-</p>
+Healthcare Professional with hands-on experience in:
 
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=bibythayyil)
-</p>
+✔ Patient Consultation & Case Taking
 
----
+✔ Clinical Documentation & Record Management
 
-## 🎯 Career Interests
+✔ Healthcare Data Interpretation
 
-- Healthcare Analytics
-- Business Intelligence
-- Clinical Data Management
-- Data Visualization
-- Healthcare AI Applications
-- Evidence-Based Healthcare
+✔ Treatment Outcome Monitoring
 
----
+✔ Community Health Awareness Programs
+
+✔ Healthcare Decision Making
+
+This clinical foundation enables me to understand healthcare datasets beyond numbers and derive insights with real-world context.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 🎯 Areas of Interest
+
+<div align="left">
+
+🏥 Healthcare Analytics
+
+📊 Business Intelligence
+
+📈 Data Analytics & Visualization
+
+🔬 Clinical Research
+
+📋 Clinical Data Management
+
+🤖 AI in Healthcare
+
+💡 Health Informatics
+
+🗄️ Database Analytics
+
+📉 Predictive Analytics
+
+📑 Evidence-Based Decision Making
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📫 Connect With Me
 
@@ -182,3 +213,5 @@ https://github.com/bibythayyil/healthcare-analysis-excel
 📧 **Email:** `bibythayyil@gmail.com`
 
 📱 **Phone:** `+91 8289987499`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=100&section=footer"/>
