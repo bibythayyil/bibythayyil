@@ -75,7 +75,7 @@ Python • MySQL • Power BI • Excel • Healthcare Analytics
 - Delivery efficiency monitoring
 - Interactive KPI dashboard
 
-🔗 https://github.com/bibythayyil/fleet-performance-delivery-dashboard-powerbi
+🔗 https://github.com/bibythayyil/fleet-performance-delivery-analysis-powerbi
 
 ---
 
