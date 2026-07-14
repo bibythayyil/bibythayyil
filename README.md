@@ -137,11 +137,11 @@ https://github.com/bibythayyil/healthcare-analysis-excel
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibythayyil&show_icons=true&cache_seconds=1800" />
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=bibythayyil)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibythayyil&layout=compact&cache_seconds=1800" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=bibythayyil)
 </p>
 
 ---
