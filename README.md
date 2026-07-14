@@ -158,11 +158,25 @@ https://github.com/bibythayyil/healthcare-analysis-excel
 ## 📫 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/bibints" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Bibin%20TS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:bibythayyil@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/bibythayyil" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://your-portfolio-link.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
 </p>
+
+📧 **Email:** `bibythayyil@gmail.com`
+
+📱 **Phone:** `+91 8289987499`
