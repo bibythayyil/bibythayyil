@@ -137,8 +137,9 @@ https://github.com/bibythayyil/healthcare-analysis-excel
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibythayyil&show_icons=true&theme=default" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibythayyil&layout=compact" height="170">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibythayyil&show_icons=true&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibythayyil&layout=compact&theme=transparent"/>
 </p>
 
 ---
