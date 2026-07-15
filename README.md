@@ -190,26 +190,7 @@ This clinical foundation enables me to understand healthcare datasets beyond num
 
 ## 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/bibints" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bibythayyil" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://kaggle.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-</p>
-
-📧 **Email:** `bibythayyil@gmail.com`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibints)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bibythayyil@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=100&section=footer"/>
