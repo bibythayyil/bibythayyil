@@ -212,6 +212,4 @@ This clinical foundation enables me to understand healthcare datasets beyond num
 
 📧 **Email:** `bibythayyil@gmail.com`
 
-📱 **Phone:** `+91 8289987499`
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=100&section=footer"/>
