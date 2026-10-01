@@ -28,13 +28,13 @@ Currently, I’m working as a Data Science / Data Research Intern at Anukriti AI
 
 My background combines a foundation in medical sciences with technical and analytical skills. I have training and hands-on experience in:
 
-• Python
-• SQL & MySQL
-• Excel & Power Query
-• Power BI & Data Visualization
-• Data Cleaning & Exploratory Data Analysis
-• Basic Statistics & Machine Learning
-• AI tools and workflows
+- Python
+- SQL & MySQL
+- Excel & Power Query
+- Power BI & Data Visualization
+- Data Cleaning & Exploratory Data Analysis
+- Basic Statistics & Machine Learning
+- AI tools and workflows
 
 I’ve worked on projects including Sleep, Stress & Lifestyle Analysis, Student Academic Performance Analysis, and E-Commerce Customer Churn Analysis.
 
