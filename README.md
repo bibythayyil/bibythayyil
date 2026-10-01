@@ -22,11 +22,25 @@ Python • MySQL • Power BI • Excel • Healthcare Analytics
 
 ## 👨‍💻 About Me
 
-I am a BHMS graduate and aspiring Data Analyst with a completed Data Analytics certification and hands-on experience in Python, MySQL, Power BI, and Excel.
+I’m a BHMS graduate transitioning into Data Science and Data Analytics, with a strong interest in using data, AI, and research to solve real-world problems.
 
-My unique combination of healthcare expertise and analytical skills enables me to understand complex datasets, uncover actionable insights, and communicate findings effectively through dashboards and visualizations.
+Currently, I’m working as a Data Science / Data Research Intern at Anukriti AI, gaining practical experience in data discovery, scientific research, Python, and data-driven problem solving in the pharmacogenomics space.
 
-I am currently seeking opportunities as a Data Analyst in any sector, with a particular interest in Healthcare Analytics, Clinical Data Management, Business Intelligence, and data-driven problem solving.
+My background combines a foundation in medical sciences with technical and analytical skills. I have training and hands-on experience in:
+
+• Python
+• SQL & MySQL
+• Excel & Power Query
+• Power BI & Data Visualization
+• Data Cleaning & Exploratory Data Analysis
+• Basic Statistics & Machine Learning
+• AI tools and workflows
+
+I’ve worked on projects including Sleep, Stress & Lifestyle Analysis, Student Academic Performance Analysis, and E-Commerce Customer Churn Analysis.
+
+I’m particularly interested in opportunities involving data science, AI, research, analytics, and life sciences, where I can combine domain knowledge with technical skills to generate meaningful insights.
+
+I’m continuously learning, building projects, and looking forward to contributing to data-driven teams and impactful research.
 
 📍 Kerala, India
 
