@@ -69,6 +69,22 @@ I’m continuously learning, building projects, and looking forward to contribut
 
 ## 🚀 Featured Projects
 
+### 🛍️ E-Commerce Sales & Customer Analytics
+
+<p align="center">
+  <img src="assets/E-Commerce_Sales_Dashboard.png" width="900" alt="E-Commerce Sales and Customer Analytics Dashboard">
+</p>Tools: Excel, Power Query, MySQL, Python, Power BI
+
+- Analysed 18,000 orders across 4,000 unique customers, 30 products, and 8 cities
+- Performed data cleaning, SQL analysis, and exploratory data analysis
+- Built interactive Power BI dashboards to analyse sales, customer segments, product performance, discounts, and cancellations/returns
+- Identified business patterns and developed data-driven recommendations
+
+🔗 Repository:
+https://github.com/bibythayyil/ecommerce-sales-customer-analytics-excel-sql-python-powerbi
+
+---
+
 ### 📊 Sleep, Stress & Lifestyle Analysis
 
 <p align="center">
